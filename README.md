@@ -152,3 +152,8 @@ Message the bot from the `OWNER_ID` account to see the main menu.
   to every appointment in one shared database. There's no multi-tenant
   support, no per-staff logins, and no concept of multiple salons or
   calendars in the same deployment.
+
+---
+**Developed by Numinae Studio**  
+* **X:** [@numinae](https://x.com/numinae)  
+* **Instagram:** [@numinae.studio](https://instagram.com/numinae.studio)
